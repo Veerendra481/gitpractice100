@@ -1,2 +1,7 @@
+#testers
 1.execute smoke test
 2.cloud deployment
+##devops
+1.build this code by jenkins
+2.deploy the code to the tomcat server
+
