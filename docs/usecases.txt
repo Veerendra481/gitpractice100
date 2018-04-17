@@ -1,0 +1,2 @@
+1.execute smoke test
+2.cloud deployment
